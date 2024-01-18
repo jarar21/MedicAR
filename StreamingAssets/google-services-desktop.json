@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "774931286636",
+    "firebase_url": "https://fir-authentication-module-default-rtdb.firebaseio.com",
+    "project_id": "fir-authentication-module",
+    "storage_bucket": "fir-authentication-module.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774931286636:android:739be9d933113d925be649",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ARAnatomy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-1RICMZL08n8O8mYD8CzK0YKWIjtlTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

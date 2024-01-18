@@ -1,0 +1,519 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5763237060464169041
+  m_GuidHigh: 6353286708788522921
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5628168588183811703
+      m_GuidHigh: 14434497875168301996
+    m_SerializedTextureGuid:
+      m_GuidLow: 17587954769228807671
+      m_GuidHigh: 14514697768487734744
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4679641893790935544
+      m_GuidHigh: 17237349363777032867
+    m_SerializedTextureGuid:
+      m_GuidLow: 18159669805317496552
+      m_GuidHigh: 6813052258963831641
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4619082186193315978
+      m_GuidHigh: 7537421538025982652
+    m_SerializedTextureGuid:
+      m_GuidLow: 3991322837345953134
+      m_GuidHigh: 11149106509306444138
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4956678571198309018
+      m_GuidHigh: 11896311855553500809
+    m_SerializedTextureGuid:
+      m_GuidLow: 1154239048504347187
+      m_GuidHigh: 15332338620688282936
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4895147208225122091
+      m_GuidHigh: 6591249053189944707
+    m_SerializedTextureGuid:
+      m_GuidLow: 16880668426628592120
+      m_GuidHigh: 14150195882084954649
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4880477773337212654
+      m_GuidHigh: 13386027966602140590
+    m_SerializedTextureGuid:
+      m_GuidLow: 11913165565863744131
+      m_GuidHigh: 7063762794033963995
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4735414230857605746
+      m_GuidHigh: 16730153741653744797
+    m_SerializedTextureGuid:
+      m_GuidLow: 11296256780461916860
+      m_GuidHigh: 6243303927823151706
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5145398209043641131
+      m_GuidHigh: 12790900484320475549
+    m_SerializedTextureGuid:
+      m_GuidLow: 11093711328521155596
+      m_GuidHigh: 6726215876856311787
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4802678914573524190
+      m_GuidHigh: 10696333045545927040
+    m_SerializedTextureGuid:
+      m_GuidLow: 6085764905409026588
+      m_GuidHigh: 1075111871821443928
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5566425314935762991
+      m_GuidHigh: 11734811503076042890
+    m_SerializedTextureGuid:
+      m_GuidLow: 11044127736367050030
+      m_GuidHigh: 15573625926491378168
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5704248563298335479
+      m_GuidHigh: 3526371164064899465
+    m_SerializedTextureGuid:
+      m_GuidLow: 18141736152158213674
+      m_GuidHigh: 8670159072245977017
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4910512129331599685
+      m_GuidHigh: 3566774230276762507
+    m_SerializedTextureGuid:
+      m_GuidLow: 2703380224930317764
+      m_GuidHigh: 16798657323261084905
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4720531120105455937
+      m_GuidHigh: 150506230011169718
+    m_SerializedTextureGuid:
+      m_GuidLow: 6342323359657240721
+      m_GuidHigh: 9954486897640195272
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4762498352544378004
+      m_GuidHigh: 7074233995814547600
+    m_SerializedTextureGuid:
+      m_GuidLow: 7855554380626095741
+      m_GuidHigh: 9860734866794422842
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5216004500899710157
+      m_GuidHigh: 16573201342701267619
+    m_SerializedTextureGuid:
+      m_GuidLow: 321025454748408879
+      m_GuidHigh: 4478336234057586600
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4617626458075367976
+      m_GuidHigh: 15782570689008616877
+    m_SerializedTextureGuid:
+      m_GuidLow: 6369238693817924509
+      m_GuidHigh: 4306896909587593832
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5674181024005974646
+      m_GuidHigh: 833311934034832533
+    m_SerializedTextureGuid:
+      m_GuidLow: 5302078614923633139
+      m_GuidHigh: 17368955669323835722
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5200862889253247666
+      m_GuidHigh: 180752781120813725
+    m_SerializedTextureGuid:
+      m_GuidLow: 5495546375506319962
+      m_GuidHigh: 16533689013071856443
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5338339009719945082
+      m_GuidHigh: 57801080795206828
+    m_SerializedTextureGuid:
+      m_GuidLow: 1095776771627361619
+      m_GuidHigh: 2492696001743906760
+    m_Size: {x: 1023, y: 851}
+    m_SpecifySize: 1
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4967292302403715539
+      m_GuidHigh: 13320308331562078348
+    m_SerializedTextureGuid:
+      m_GuidLow: 13755356860601247104
+      m_GuidHigh: 7547860061221684185
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Liver
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5531364830809270258
+      m_GuidHigh: 15382254538575169456
+    m_SerializedTextureGuid:
+      m_GuidLow: 735461183472967202
+      m_GuidHigh: 267457893902148632
+    m_Size: {x: 736, y: 980}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4684673361116641738
+      m_GuidHigh: 6095439250242494596
+    m_SerializedTextureGuid:
+      m_GuidLow: 9467786174947293024
+      m_GuidHigh: 430358240793833593
+    m_Size: {x: 1112.846, y: 980}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5028466741666025380
+      m_GuidHigh: 16017758836752050623
+    m_SerializedTextureGuid:
+      m_GuidLow: 14980119274544666298
+      m_GuidHigh: 6445044258938455578
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5066174999080309818
+      m_GuidHigh: 12806392901132677558
+    m_SerializedTextureGuid:
+      m_GuidLow: 3946532441545833336
+      m_GuidHigh: 10249703533773924792
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5457851136057976654
+      m_GuidHigh: 9404432991121027007
+    m_SerializedTextureGuid:
+      m_GuidLow: 13530133252993581442
+      m_GuidHigh: 9744631353304480841
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5503303562575650428
+      m_GuidHigh: 6397311011784924598
+    m_SerializedTextureGuid:
+      m_GuidLow: 9679574716033255866
+      m_GuidHigh: 12834415122159401064
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5514449251578494079
+      m_GuidHigh: 15576977188372982949
+    m_SerializedTextureGuid:
+      m_GuidLow: 12399749236853975672
+      m_GuidHigh: 13267981159406634714
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4754666167453971018
+      m_GuidHigh: 2047092601898758830
+    m_SerializedTextureGuid:
+      m_GuidLow: 4775177136576079677
+      m_GuidHigh: 7228510644343792696
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5731847337502630574
+      m_GuidHigh: 14738384029411462572
+    m_SerializedTextureGuid:
+      m_GuidLow: 3486978375400633475
+      m_GuidHigh: 9497304705167031945
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5515914815780953308
+      m_GuidHigh: 5369515298602855315
+    m_SerializedTextureGuid:
+      m_GuidLow: 14372207927382137900
+      m_GuidHigh: 12586307634766612777
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4725015285767680921
+      m_GuidHigh: 13419972320793362872
+    m_SerializedTextureGuid:
+      m_GuidLow: 911122665625237863
+      m_GuidHigh: 1341589368127243707
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4943156830602973828
+      m_GuidHigh: 13630119097832997055
+    m_SerializedTextureGuid:
+      m_GuidLow: 17578830090822532379
+      m_GuidHigh: 11767777350185694104
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5644404172372748853
+      m_GuidHigh: 1446053314809013888
+    m_SerializedTextureGuid:
+      m_GuidLow: 16083574247160500947
+      m_GuidHigh: 11012689925227136826
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4993648828640310591
+      m_GuidHigh: 2048334146036866193
+    m_SerializedTextureGuid:
+      m_GuidLow: 17493235088824351388
+      m_GuidHigh: 15740228366223546794
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5452398398753495540
+      m_GuidHigh: 17285118542552468880
+    m_SerializedTextureGuid:
+      m_GuidLow: 16624076943075887062
+      m_GuidHigh: 9353329599604127976
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5497885557910724921
+      m_GuidHigh: 14368528538797508017
+    m_SerializedTextureGuid:
+      m_GuidLow: 4329295459845684941
+      m_GuidHigh: 2751199285679554955
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5704947674626221511
+      m_GuidHigh: 8461967330871454087
+    m_SerializedTextureGuid:
+      m_GuidLow: 16439534792880130558
+      m_GuidHigh: 6321845002452767993
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5631447980419872800
+      m_GuidHigh: 16264570286654650017
+    m_SerializedTextureGuid:
+      m_GuidLow: 14106574756739836684
+      m_GuidHigh: 16277648969563088091
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5264592478977111490
+      m_GuidHigh: 231883401696297098
+    m_SerializedTextureGuid:
+      m_GuidLow: 16205253735096947451
+      m_GuidHigh: 9956963209846639497
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5722292227168176088
+      m_GuidHigh: 434749327954575806
+    m_SerializedTextureGuid:
+      m_GuidLow: 240060608080226267
+      m_GuidHigh: 9284900356104410635
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kidney
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4757775793177956537
+      m_GuidHigh: 13228830833257589640
+    m_SerializedTextureGuid:
+      m_GuidLow: 5594627331293151257
+      m_GuidHigh: 14801815661521247531
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4835819943203999753
+      m_GuidHigh: 598759157092394657
+    m_SerializedTextureGuid:
+      m_GuidLow: 9080403480483921807
+      m_GuidHigh: 12094494159540874457
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4992168355863199529
+      m_GuidHigh: 3574425764805648014
+    m_SerializedTextureGuid:
+      m_GuidLow: 17596892165161248846
+      m_GuidHigh: 3486405891399061979
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5330294133714053200
+      m_GuidHigh: 1312916850221682360
+    m_SerializedTextureGuid:
+      m_GuidLow: 17110523916149042199
+      m_GuidHigh: 700190595226060489
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4798311848438613765
+      m_GuidHigh: 16104742329184978617
+    m_SerializedTextureGuid:
+      m_GuidLow: 582301024764309245
+      m_GuidHigh: 1983878896916481979
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5245704974918323542
+      m_GuidHigh: 16853945943159410592
+    m_SerializedTextureGuid:
+      m_GuidLow: 5770246640402993039
+      m_GuidHigh: 1490520784990556379
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4963484603220358181
+      m_GuidHigh: 4836156056324773009
+    m_SerializedTextureGuid:
+      m_GuidLow: 12444813636478962961
+      m_GuidHigh: 7611300726987740027
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5592033096838138922
+      m_GuidHigh: 17766081398171807413
+    m_SerializedTextureGuid:
+      m_GuidLow: 16403327362667743552
+      m_GuidHigh: 7737490205758460666
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5591595678549156385
+      m_GuidHigh: 536009191691151793
+    m_SerializedTextureGuid:
+      m_GuidLow: 2617769818446067779
+      m_GuidHigh: 10945548294755959544
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5164292675520683786
+      m_GuidHigh: 11344823392043343492
+    m_SerializedTextureGuid:
+      m_GuidLow: 13322912035692600953
+      m_GuidHigh: 4294511952076136010
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Lungs
+    m_Texture: {fileID: 0}
